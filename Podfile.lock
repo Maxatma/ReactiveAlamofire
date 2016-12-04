@@ -1,0 +1,19 @@
+PODS:
+  - Alamofire (4.2.0)
+  - Bond (5.1.2):
+    - ReactiveKit (~> 3.1)
+  - ReactiveKit (3.1.1)
+
+DEPENDENCIES:
+  - Alamofire
+  - Bond (~> 5.0)
+  - ReactiveKit (~> 3.1)
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  Bond: 8502352ca09c8245b20afabcfc7a988ae48fcbbc
+  ReactiveKit: e830df3deeb6cdf2acd18cee5cf07cb25488ae4e
+
+PODFILE CHECKSUM: 209706d58cf57f0a783c573943c0a2d8382fd845
+
+COCOAPODS: 1.0.0
